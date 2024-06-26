@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\bgj\source\C++ Primer Plus\延时循环\延时循环\源.cpp(10,16): warning C4244: “初始化”: 从“float”转换到“clock_t”，可能丢失数据
+  延时循环.vcxproj -> C:\Users\bgj\source\C++ Primer Plus\延时循环\x64\Debug\延时循环.exe
