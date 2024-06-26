@@ -1,0 +1,3 @@
+git@github.com:guangjunbai/-.git
+C:/Users/bgj/Desktop/自动管理
+main
